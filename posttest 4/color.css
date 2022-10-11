@@ -1,0 +1,54 @@
+body {
+     background-color: orange;
+}
+
+.card {
+     width: 300px;
+     height: 400px;
+     text-align: center;
+     border: 5px solid white;
+     margin: auto;
+     margin-top: 50px;
+}
+
+.card img {
+     width: 150px;
+     height: 250px;
+     margin-top: 40px;
+}
+
+.card h4 {
+     border-color: darkmagenta;
+}
+
+.back {
+     background-color: deeppink;
+     font-family: "Century Gothic";
+}
+
+.next {
+     background-color: palegreen;
+     color: papayawhip;
+     font-family: "Century Gothic";
+}
+
+.card hr {
+     width: 40%;
+     color: deeppink;
+}
+
+.card p {
+     text-align: center;
+}
+
+.goback {
+     background-color: darkturquoise;
+     color: white;
+     font-family: "Century Gothic";
+     font-size: 80%;
+}
+
+.card b {
+     background-color: darkolivegreen;
+     color: white;
+}

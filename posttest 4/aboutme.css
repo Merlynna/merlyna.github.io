@@ -1,0 +1,17 @@
+body {
+     background-color: papayawhip;
+}
+
+.foto img {
+     width: 200px;
+     height: 250px;
+     margin-top: 70px;
+     margin-left: 690px;
+     border: 5px solid lightskyblue;
+}
+
+p {
+     font-size: 20px;
+     text-align: center;
+     color: chocolate;
+}
